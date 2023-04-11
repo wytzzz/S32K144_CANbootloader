@@ -1,0 +1,7 @@
+This is a test.
+Zone 1        Zone 2
+Hello         World
+     5 leading spaces 
+         Hello
+False          is a Boolean value
+1969/2/12      is a date
